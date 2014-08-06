@@ -8,7 +8,7 @@
   },
   "description": "Websocket signaling server based on the WebSocket-over-Nodejs for WebRTC Experiments: https://www.webrtc-experiment.com",
   "contributors": [{
-	"name":"Alex Ballesté"
+	"name":"Alex Ballesté",
 	"email":"alex.balleste@gmail.com"
     }
   ],
