@@ -1,16 +1,15 @@
 {
-  "name": "websocket-over-nodejs",
+  "name": "webrtc-signaling-server",
   "preferGlobal": true,
-  "version": "0.0.2",
+  "version": "0.0.1",
   "author": {
-    "name": "Muaz Khan",
-    "email": "muazkh@gmail.com"
+    "name": "Alex Ballesté",
+    "email": "alex.balleste@gmail.com"
   },
-  "description": "WebSocket-over-Nodejs for WebRTC Experiments: https://www.webrtc-experiment.com",
-  "contributors": [
-    {
-      "name": "Muaz Khan",
-      "email": "muazkh@gmail.com"
+  "description": "Websocket signaling server based on the WebSocket-over-Nodejs for WebRTC Experiments: https://www.webrtc-experiment.com",
+  "contributors": [{
+	"name":"Alex Ballesté"
+	"email":"alex.balleste@gmail.com"
     }
   ],
   "scripts": {
@@ -19,11 +18,10 @@
   "main": "signaler.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muaz-khan/WebRTC-Experiment.git"
+    "url": "https://github.com/sinmsinm/webrtc-signaling-server.git"
   },
   "keywords": [
-    "webrtc-signaling",
-    "websocket-over-nodejs"
+    "webrtc-signaling-serever"
   ],
   "analyze": false,
   "license": "MIT",
@@ -34,9 +32,9 @@
     "websocket": "1.0.x"
   },
   "bugs": {
-    "url": "https://github.com/muaz-khan/WebRTC-Experiment/issues"
+    "url": "https://github.com/sinminm/webrtc-signaling-server/issues"
   },
-  "homepage": "https://github.com/muaz-khan/WebRTC-Experiment",
-  "_id": "websocket-over-nodejs@0.0.2",
-  "_from": "websocket-over-nodejs@"
+  "homepage": "https://github.com/sinmsinm/webrtc-signaling-server",
+  "_id": "websocket-signaling-server@0.0.1",
+  "_from": "websocket-signaling-server@"
 }
