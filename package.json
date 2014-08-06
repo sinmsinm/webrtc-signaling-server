@@ -7,9 +7,10 @@
     "email": "alex.balleste@gmail.com"
   },
   "description": "Websocket signaling server based on the WebSocket-over-Nodejs for WebRTC Experiments: https://www.webrtc-experiment.com",
-  "contributors": [{
-	"name":"Alex Ballesté",
-	"email":"alex.balleste@gmail.com"
+  "contributors": [
+    {
+      "name": "Alex Ballesté",
+      "email": "alex.balleste@gmail.com"
     }
   ],
   "scripts": {
@@ -29,7 +30,8 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "websocket": "1.0.x"
+    "websocket": "1.0.x",
+    "node-static": "~0.7.4"
   },
   "bugs": {
     "url": "https://github.com/sinminm/webrtc-signaling-server/issues"
